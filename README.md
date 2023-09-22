@@ -1,32 +1,36 @@
+## Shuffle
 
-**🚨 Main branch is protected, please work on a [new branch](../../branches) and submit a Pull Request for review**
-
-Read [The GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) to learn more
-
-
----
-# Assignment-Template
-<!-- Feel free to modify this template to fit your assignment requirements --->
-
-## COMPANY-NAME
-
-![Company Logo](IMAGE-URL)
+![Company Logo](https://www.shuffler.io/images/logos/orange_logo.svg)
 
 ### Company information 
 
-<!--- Use this section to share information about your company such as founding information, mission statement, product description, product success, etc.--->
+Shuffle is an open source cybersecurity SOAR platform based out of Oslo, Norway.
 
 ### Why participate in an Octernship with COMPANY-NAME
 
-<!--- Use this section to appeal to students. Consider sharing information about recent projects, the technology stack, the type of mentorship students can expect, listing future employment opportunities, etc. --->
+Shuffle is an open-source SOAR platform in the cybersecurity field with a burgeoning community, with a primary goal to make it easier to automate your operations. As a Frontend Developer (Software Engineer), you will have the chance to contribute to the platform's improvement, further develop your skills, and be considered for a full-time role at the company.
 
 ### Octernship role description
 
-<!--- Use this section to describe the role in as much detail as necessary. Please include the GitHub Classroom assignment submission date, length of the Octernship, and the monthly stipend --->
+We are seeking a talented Frontend Developer with expertise in React JS to join our team. As a Frontend Developer, you will play a pivotal role in designing, developing, and maintaining our web applications. Your responsibilities will include integrating frontend and backend systems, collaborating with cross-functional teams, creating interactive user interfaces, and contributing to the overall user experience (UX) of our products. Familiarity with cloud systems and version control with GitHub is essential to excel in this role.
 
-### Recommended qualifications
+### Qualifications
 
-<!--- Use this section to describe what skills a student might need to complete the problem statement on GitHub Classroom --->
+- Proven experience in developing web applications using React JS.
+- Proficiency in using Git and GitHub for version control and collaboration.
+- Familiarity with cloud platforms (especially GCP) and deployment processes.
+- Experience with UI/UX design and implementation, including a keen eye for visual aesthetics.
+- Excellent problem-solving skills and attention to detail.
+- Strong communication and teamwork skills.
+- Ability to adapt to changing project requirements and prioritize tasks effectively.
+
+(Preferred Qualifications)
+
+- Knowledge of frontend testing frameworks (e.g., React Testing Library).
+- Understanding of backend technologies and RESTful APIs.
+- Knowledge of responsive web design and accessibility standards.
+- Experience with performance optimization techniques.
+- Continuous learning and a passion for staying updated with the latest frontend development trends and technologies.
 
 ### Eligibility
 
@@ -40,29 +44,21 @@ To participate, you must be:
 
 # Assignment
 
-## TASK-TITLE
+## Submit your profile
 
 ### Task instructions 📝
 
-<!--- Use this section to describe the project that students are required to complete. We ask that you also include instructions on running and preparing the students' local environment if necessary. --->
+This is simple. We want to know more about you and what you have done till date, and so:
+- Share your resume in a PDF format.
+- Bring up the project/work that you're most proud of. What was the most challenging part? Why? How did you solve it? How did you come up with the solution?
+- What's the most challenging thing you have done as a part of project/work on Github or Git?
+- Why are you interested in the cybersecurity and the open-soure space?
+- Share links to your projects/work (if not already mentioned in resume).
 
 ### Task Expectations 👩‍💻👨‍💻
 
-<!--- Please add expectations that students need to follow to be considered. Some examples include: completing the project on their own, not using code from external resources without comprehending the logic, etc.  --->
+Try to be authentic about your profile and answers, it's easy to defer otherwise.
 
 ### Task submission 🚀
 
-Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) when working on their project. 
-
-- [ ] Create a new branch
-- [ ] Making changes on the new branch
-- [ ] Create a new Pull Request from `new branch` -> `main`
-- [ ] Merge the PR changes into `main` branch **on or before the assignment deadline**.
-- [ ] Use GitHub Discussions to ask any relevant questions regarding the project
-
-#### Heads up 🚨
-- Public Pull Requests are not accepted for GitHub Octernships. Apply via the official [Octernships dashboard](https://education.github.com/students/octernships).
-
-### Resources 📚
-
-<!--- Use this section to add resources for students to refer to. For example Documentation, Tutorials, Guides, and more.  --->
+Simply submit a doc link with everything -- Resume, answers, and links.
