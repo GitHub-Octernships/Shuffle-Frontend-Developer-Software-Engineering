@@ -54,6 +54,15 @@ To participate, you must be:
 
 * Active contributor on GitHub (monthly)
 
+### Timeline
+
+| Action  | Date |
+| ------------- | ------------- |
+| Assignment Published | 10/01/2023 |
+| Assignment Deadline | 10/14/2023 |
+| Octernship Start | 11/01/2023 |
+| Octernship End | 01/31/2024 |
+
 # Assignment
 
 ## Submit your profile.
