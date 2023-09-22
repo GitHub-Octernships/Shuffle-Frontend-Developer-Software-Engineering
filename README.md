@@ -6,13 +6,25 @@
 
 Shuffle is an open source cybersecurity SOAR platform based out of Oslo, Norway.
 
-### Why participate in an Octernship with COMPANY-NAME
+### Why participate in an Octernship with Shuffle?
 
 Shuffle is an open-source SOAR platform in the cybersecurity field with a burgeoning community, with a primary goal to make it easier to automate your operations. As a Frontend Developer (Software Engineer), you will have the chance to contribute to the platform's improvement, further develop your skills, and be considered for a full-time role at the company.
 
 ### Octernship role description
 
 We are seeking a talented Frontend Developer with expertise in React JS to join our team. As a Frontend Developer, you will play a pivotal role in designing, developing, and maintaining our web applications. Your responsibilities will include integrating frontend and backend systems, collaborating with cross-functional teams, creating interactive user interfaces, and contributing to the overall user experience (UX) of our products. Familiarity with cloud systems and version control with GitHub is essential to excel in this role.
+
+### Key Responsibilities:
+
+- React JS Development: Develop and maintain responsive and user-friendly web applications using React JS, ensuring high performance and scalability.
+- Integration: Collaborate closely with backend developers to integrate frontend and backend systems seamlessly, ensuring efficient data flow and functionality.
+- Cloud System Integration: Work with cloud systems (especially GCP) to deploy, manage, and optimize frontend applications for scalability and reliability.
+- Cross-Functional Collaboration: Collaborate with designers, product managers, and other development teams to understand project requirements and deliver high-quality solutions.
+- Code Optimization: Continuously optimize frontend code for performance, maintainability, and code quality, ensuring adherence to coding standards.
+- Bug Fixing: Identify and resolve frontend-related issues and bugs, performing thorough testing to ensure bug-free applications.
+- UI/UX Enhancement: Contribute to the improvement of the user interface and user experience, focusing on usability, accessibility, and visual aesthetics.
+- Documentation: Create and maintain technical documentation for frontend components, libraries, and processes.
+
 
 ### Qualifications
 
@@ -44,7 +56,7 @@ To participate, you must be:
 
 # Assignment
 
-## Submit your profile
+## Submit your profile.
 
 ### Task instructions 📝
 
