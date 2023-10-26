@@ -65,21 +65,23 @@ To participate, you must be:
 
 # Assignment
 
-## Submit your profile.
+## Fix a real bug on Shuffle - Editing a file on web UI duplicates the file contents.
 
 ### Task instructions 📝
 
-This is simple. We want to know more about you and what you have done till date, and so:
-- Share your resume in a PDF format.
-- Bring up the project/work that you're most proud of. What was the most challenging part? Why? How did you solve it? How did you come up with the solution?
-- What's the most challenging thing you have done as a part of project/work on Github or Git?
-- Why are you interested in the cybersecurity and the open-soure space?
-- Share links to your projects/work (if not already mentioned in resume).
+On the files section inside admin portal of Shuffle, editing and saving an existing file creates duplicate content inside it. For more context, look [this issue](https://github.com/Shuffle/Shuffle/issues/1176).
+
+Steps to reproduce:
+1. Run [Shuffle](https://github.com/Shuffle/Shuffle/blob/main/.github/install-guide.md) locally and go to the admin page.
+2. Import a file.
+3. Edit the file contents on that same UI interface.
+4. Save the file.
+5. Check the file contents in that same interface or by using a shuffle tools with get file option.
 
 ### Task Expectations 👩‍💻👨‍💻
 
-Try to be authentic about your profile and answers, it's easy to defer otherwise.
+Make the editing action work as expected, i.e., editing the file should not create duplicate content.
 
 ### Task submission 🚀
 
-Simply submit a doc link with everything -- Resume, answers, and links.
+Submit updated file(s) from the Shuffle [repository](https://github.com/Shuffle/Shuffle/). Plus points if you can send a PR on the repository itself.
