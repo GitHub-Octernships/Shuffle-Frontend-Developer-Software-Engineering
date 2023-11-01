@@ -84,4 +84,4 @@ Make the editing action work as expected, i.e., editing the file should not crea
 
 ### Task submission 🚀
 
-Submit updated file(s) from the Shuffle [repository](https://github.com/Shuffle/Shuffle/). Plus points if you can send a PR on the repository itself.
+Look at the changes in your local copy of Shuffle [repository](https://github.com/Shuffle/Shuffle/) and submit the updated files in this repository inside ``<repository>/assignment_files``.
