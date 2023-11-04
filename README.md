@@ -92,3 +92,9 @@ This is very important. Read it through.
   - Clone this repository onto your account and make it private.
   - Add your updated files (assignemnt solution) in your private repo under ``<private_repo>/assignment_files``.
   - Submit your private repository for the assignment submission.
+
+# Resources 📚
+
+- You can get more context in [this issue](https://github.com/Shuffle/Shuffle/issues/994).
+- Make sure you DO NOT send PRs there publicly. Look at task submission instructions above.
+- You are free to discuss and clarify questions there though.
