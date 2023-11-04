@@ -68,7 +68,7 @@ To participate, you must be:
 
 # Assignment
 
-## Fix a real bug on Shuffle - Build a Web Form Generator that connects to Shuffle workflows
+## Build a Web Form Generator that connects to Shuffle workflows
 
 ### Task instructions 📝
 
