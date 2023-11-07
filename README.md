@@ -54,7 +54,8 @@ To participate, you must be:
 
 * Active contributor on GitHub (monthly)
 
-If eligible, you can apply to this Octernships via your [Octernships Dashboard](https://education.github.com/students/octernships)
+
+* If eligible, you can apply to this Octernships via your [Octernships Dashboard](https://education.github.com/students/octernships)
 
 ### Timeline
 
@@ -67,23 +68,33 @@ If eligible, you can apply to this Octernships via your [Octernships Dashboard](
 
 # Assignment
 
-## Fix a real bug on Shuffle - Editing a file on web UI duplicates the file contents.
+## Build a Web Form Generator that connects to Shuffle workflows
 
 ### Task instructions 📝
 
-On the files section inside admin portal of Shuffle, editing and saving an existing file creates duplicate content inside it. For more context, look [this issue](https://github.com/Shuffle/Shuffle/issues/1176).
-
-Steps to reproduce:
-1. Run [Shuffle](https://github.com/Shuffle/Shuffle/blob/main/.github/install-guide.md) locally and go to the admin page.
-2. Import a file.
-3. Edit the file contents on that same UI interface.
-4. Save the file.
-5. Check the file contents in that same interface or by using a shuffle tools with get file option.
+Users should be able to build standalone forms inside Shuffle that can be shared with others, and when an action is performed (form opened, form submitted, etc), it triggers a flow inside Shuffle workflow such as ``Form Submitted -> Fires a trigger inside Suffle workflow -> Workflow sends an email to hello@shuffler.io``.
 
 ### Task Expectations 👩‍💻👨‍💻
 
-Make the editing action work as expected, i.e., editing the file should not create duplicate content.
+- Be able to create and build forms inside Shuffle with all standard input types.
+- The form needs to be accessible to outsiders with just a link.
+- Actions performed on the form need to connect to the workflow as triggers.
+  - Don't worry about what workflow will be like. The goal is to make sure something is triggered when an action is performed on the form.
+  - Feel free to test your form on this usecase: ``Form Submitted -> Fires a trigger inside Suffle workflow``.
+  - If your standalone form can fire a trigger inside Workflow, we'll consider your assignment complete.
 
-### Task submission 🚀
+# Task submission 🚀
 
-Look at the changes in your local copy of Shuffle [repository](https://github.com/Shuffle/Shuffle/) and submit the updated files in this repository inside ``<repository>/assignment_files``.
+This is very important. Read it through.
+- The submission needs to happen privately and not publicly on Shuffle [repository](https://github.com/Shuffle/Shuffle/). Disregard any communication that says otherwise.
+- Look at the changes in your local copy of Shuffle [repository](https://github.com/Shuffle/Shuffle/) and submit the updated files in this repository inside ``<repository>/assignment_files``.
+- Steps for submission of updated files:
+  - Clone this repository onto your account and make it private.
+  - Add your updated files (assignemnt solution) in your private repo under ``<private_repo>/assignment_files``.
+  - Submit your private repository for the assignment submission.
+
+# Resources 📚
+
+- You can get more context in [this issue](https://github.com/Shuffle/Shuffle/issues/994).
+- Make sure you DO NOT send PRs there publicly. Look at task submission instructions above.
+- You are free to discuss and clarify questions there though.
