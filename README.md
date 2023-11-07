@@ -54,8 +54,8 @@ To participate, you must be:
 
 * Active contributor on GitHub (monthly)
 
-* If eligible, you can apply to this Octernships via your [Octernships Dashboard](https://education.github.com/students/octernships)
 
+* If eligible, you can apply to this Octernships via your [Octernships Dashboard](https://education.github.com/students/octernships)
 
 ### Timeline
 
