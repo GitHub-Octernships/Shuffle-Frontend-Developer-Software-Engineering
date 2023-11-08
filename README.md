@@ -72,7 +72,7 @@ To participate, you must be:
 
 ### Task instructions 📝
 
-Users should be able to build standalone forms inside Shuffle that can be shared with others, and when an action is performed (form opened, form submitted, etc), it triggers a flow inside Shuffle workflow such as ``Form Submitted -> Fires a trigger inside Suffle workflow -> Workflow sends an email to hello@shuffler.io``.
+Users should be able to build standalone forms inside Shuffle that can be shared with others, and when an action is performed (form opened, form submitted, etc), it triggers a flow inside Shuffle workflow such as ``Form Submitted -> Fires a trigger inside Shuffle workflow -> Workflow sends an email to hello@shuffler.io``.
 
 ### Task Expectations 👩‍💻👨‍💻
 
@@ -80,7 +80,7 @@ Users should be able to build standalone forms inside Shuffle that can be shared
 - The form needs to be accessible to outsiders with just a link.
 - Actions performed on the form need to connect to the workflow as triggers.
   - Don't worry about what workflow will be like. The goal is to make sure something is triggered when an action is performed on the form.
-  - Feel free to test your form on this usecase: ``Form Submitted -> Fires a trigger inside Suffle workflow``.
+  - Feel free to test your form on this usecase: ``Form Submitted -> Fires a trigger inside Shuffle workflow``.
   - If your standalone form can fire a trigger inside Workflow, we'll consider your assignment complete.
 
 # Task submission 🚀
