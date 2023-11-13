@@ -62,7 +62,7 @@ To participate, you must be:
 | Action  | Date |
 | ------------- | ------------- |
 | Assignment Published | 11/01/2023 |
-| Assignment Deadline | 11/14/2023 |
+| Assignment Deadline | 11/21/2023 |
 | Octernship Start | 12/01/2023 |
 | Octernship End | 02/28/2024 |
 
